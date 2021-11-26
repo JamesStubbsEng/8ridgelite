@@ -2,3 +2,4 @@ Builds/
 JuceLibraryCode/
 MacPackager/build/
 .DS_Store
+Output/
